@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3529308162
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0f71efa92b83a59949d090c02c2de22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 84efe8a70a27dc8f7efd484857bb4459
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles_for_export/dog13.png
+- Assets/Bundles_for_export/dog6.png
+- Assets/Bundles_for_export/dog_prefab.prefab
+- Assets/Bundles_for_export/dog10.png
+- Assets/Bundles_for_export/dog1.png
+- Assets/Bundles_for_export/dog9.png
+- Assets/Bundles_for_export/dog11.png
+- Assets/Bundles_for_export/dog12.png
+- Assets/Bundles_for_export/dog4.png
+- Assets/Bundles_for_export/dog3.png
+- Assets/Bundles_for_export/dog8.png
+- Assets/Bundles_for_export/dog7.png
+- Assets/Bundles_for_export/dog2.png
+- Assets/Bundles_for_export/dog5.png
+Dependencies: []
